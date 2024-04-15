@@ -8,12 +8,12 @@ I hope to have a chance to work in your respective organization, and be the righ
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,java,angular,jsp,mysql,oracle)](https://eg.linkedin.com/in/mohamed-zidan-96912457)
 
 
-<img src="https://img.shields.io/badge/mohamed-zidan-96912457?style=for-the-badge&logo=linkedin&logoColor=white" />
+<img src="https://img.shields.io/badge/LinkedIn-96912457?style=for-the-badge&logo=linkedin&logoColor=white" />
 
 
 🚀 Currently, I'm diving deep into the latest technologies and methodologies to stay at the forefront of software development. Whether it's architecting scalable systems, optimizing performance, or troubleshooting complex issues, I'm always up for the challenge.
 
-🌟 Let's connect and collaborate! Check out my LinkedIn profile [here](https://eg.linkedin.com/in/LinkedIn-96912457) to learn more about my professional journey and experiences.
+🌟 Let's connect and collaborate! Check out my LinkedIn profile [here](https://eg.linkedin.com/in/mohamed-zidan-96912457) to learn more about my professional journey and experiences.
 
 ---
 
