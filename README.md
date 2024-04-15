@@ -1,12 +1,15 @@
-### Hi there 👋, my name is Mohamed Zidan
-#### I am GitHub Readme Generator's creator
 ![I am GitHub Readme Generator's creator](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
-I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
+👋 Hello! I'm Mohamed Zidan, a seasoned Senior Software Developer with expertise in Java, Angular, IBM EGL, and JSP. I'm passionate about crafting robust and efficient solutions that solve real-world problems. With [X] years of experience in the industry, I thrive in collaborative environments where I can contribute my skills to deliver high-quality software products.
 
-Skills: VUE JS / REACT / JS / HTML / CSS
+🚀 Currently, I'm diving deep into the latest technologies and methodologies to stay at the forefront of software development. Whether it's architecting scalable systems, optimizing performance, or troubleshooting complex issues, I'm always up for the challenge.
 
-- 🔭 I’m currently working on this page. 
+🌟 Let's connect and collaborate! Check out my LinkedIn profile [here](https://eg.linkedin.com/in/mohamed-zidan-96912457) to learn more about my professional journey and experiences.
+
+---
+
+Feel free to customize it according to your preferences and add any additional information you find relevant!
+
 <!--
 **esmart-mzidan/esmart-mzidan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
