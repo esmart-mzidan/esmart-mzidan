@@ -1,7 +1,8 @@
 ![I am GitHub Readme Generator's creator](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
 👋 Hello! My Name is Mohamed Zidan
-I am a senior Software Developer ⚡, I have experience over than 10 years in many fields, as I thought myself as a fast learner and hard worker person, have the ability to learn many new fields.
+I am a senior Software Developer ⚡
+I have experience over than 10 years in many fields, as I thought myself as a fast learner and hard worker person, have the ability to learn many new fields.
 I hope to have a chance to work in your respective organization, and be the right choice if you search for talent
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,java,angular,jsp,mysql,oracle)](https://eg.linkedin.com/in/mohamed-zidan-96912457)
