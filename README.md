@@ -13,11 +13,7 @@ I hope to have a chance to work in your respective organization, and be the righ
 
 🚀 Currently, I'm diving deep into the latest technologies and methodologies to stay at the forefront of software development. Whether it's architecting scalable systems, optimizing performance, or troubleshooting complex issues, I'm always up for the challenge.
 
-🌟 Let's connect and collaborate! Check out my LinkedIn profile [here](https://eg.linkedin.com/in/mohamed-zidan-96912457) to learn more about my professional journey and experiences.
-
----
-
-Feel free to customize it according to your preferences and add any additional information you find relevant!
+🌟 Let's connect 💬 and collaborate 👯! Check out my LinkedIn profile [here](https://eg.linkedin.com/in/mohamed-zidan-96912457) to learn more about my professional journey and experiences.
 
 <!--
 **esmart-mzidan/esmart-mzidan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
