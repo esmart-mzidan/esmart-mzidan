@@ -15,6 +15,7 @@ I hope to have a chance to work in your respective organization, and be the righ
 
 🌟 Let's connect 💬 and collaborate 👯! Check out my LinkedIn profile [here](https://eg.linkedin.com/in/mohamed-zidan-96912457) to learn more about my professional journey and experiences.
 
+✨ Check out My Portfolio [here](https://docs.google.com/presentation/d/1xYAFGfyWgXQ8ayE81yk1ADqPB5vUkJbmrRCOg9EsTdg/edit?usp=drive_link)
 <!--
 **esmart-mzidan/esmart-mzidan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
