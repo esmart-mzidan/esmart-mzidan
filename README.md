@@ -13,7 +13,10 @@ I hope to have a chance to work in your respective organization, and be the righ
 
 🚀 Currently, I'm diving deep into the latest technologies and methodologies to stay at the forefront of software development. Whether it's architecting scalable systems, optimizing performance, or troubleshooting complex issues, I'm always up for the challenge.
 
-🌟 Let's connect 💬 and collaborate 👯! Check out my LinkedIn profile [here](https://eg.linkedin.com/in/mohamed-zidan-96912457) to learn more about my professional journey and experiences.
+<!-- 🌟 Let's connect 💬 and collaborate 👯! Check out my LinkedIn profile [here](https://eg.linkedin.com/in/mohamed-zidan-96912457) to learn more about my professional journey and experiences.
+-->
+🌟 Let's connect 💬 and collaborate 👯! Check out my profile [here](https://wuzzuf.net/me/mohamed-zidan-a0d90e55e9) to learn more about my professional journey and experiences.
+
 
 ✨ Check out My Portfolio [here](https://docs.google.com/presentation/d/1xYAFGfyWgXQ8ayE81yk1ADqPB5vUkJbmrRCOg9EsTdg/edit?usp=drive_link)
 <!--
